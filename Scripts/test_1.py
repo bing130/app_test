@@ -1,4 +1,4 @@
-import allure
+import allure,pytest
 
 
 class Test_01:
